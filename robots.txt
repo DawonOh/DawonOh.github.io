@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dawonoh.github.io/sitemap.xml
+Sitemap: https://Dawonoh.github.io/sitemap.xml
