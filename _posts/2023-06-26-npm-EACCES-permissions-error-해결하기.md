@@ -8,8 +8,8 @@ tags: [npm, error] # TAG names should always be lowercase
 > npm 업데이트를 하려고 하니 다음과 같은 에러가 발생했다.<br/>
 `Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> ~~~`<br/>
 
-## npm 업데이트하기
-`npm install -g npm@버전`
+## npm 최신 버전으로 업데이트하기
+`sudo npm i -g npm`
 
 ## 에러 해결하기
 npm docs 페이지에서 보니 global 설치 시 저런 에러가 나는 것 같다. node 버전 관리자로 npm을 다시 설치하는 방법도 있고, 수동으로 직접 npm 디렉토리를 변경하는 방법이 있다.
