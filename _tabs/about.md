@@ -4,5 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 안녕하세요!
+
+> **대체 불가능 한 사람**이 되는 것이 목표인 (예비) 프론트엔드 개발자입니다.
+
+원래 직업은 서비스직이었습니다. "우리는 언제든지 대체가 가능하다"라는 말을 그 당시 듣고 그 이후로는 대체 불가능한 사람이 되자는 생각을 갖게 되었습니다.
+
+현재는 프론트엔드 개발자가 되기 위해 노력중입니다.
+
+공부한 내용을 주로 업로드 하다보니 아직 부족한 점이 많습니다.
+피드백은 언제든지 환영합니다!
+
+제 블로그에 방문해주셔서 감사합니다😊
+
+{: .prompt-info }
+
+> 이전 블로그 : <a href='https://velog.io/@dacircle' target="\_blank">velog - dacircle.log</a> - 2023년 5월 이전 포스트는 여기 있습니다
